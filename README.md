@@ -3,6 +3,14 @@
 A full-stack application for uploading large files to Amazon S3 with advanced features like chunked uploads, parallel processing, automatic retry, and network resilience.
 
 
+
+
+https://github.com/user-attachments/assets/c95359bc-3ea3-4612-ae2f-7c4488913fc6
+
+
+
+
+
 ## Features
 
 ### Frontend (React + TypeScript + TailwindCss)
