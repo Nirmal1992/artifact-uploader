@@ -48,17 +48,5 @@ npm run preview
 npm run lint
 ```
 
-## Key Features
 
-### Upload Configuration
-
-The upload behavior can be configured in the UI:
-
-- **Chunk Size**: Size of each chunk (0.5 - 10 MB)
-- **Max Parallel Uploads**: Number of concurrent chunk uploads (1-10)
-- **Max Retries**: Number of retry attempts for failed chunks (0-10)
-- **Retry Delay**: Initial delay before retry with exponential backoff (0.5-10s)
-
-### Dark Mode
-
-Toggle between light and dark themes using the button in the top-right corner. The preference is saved to localStorage.
+### Dark / Light  Mode
